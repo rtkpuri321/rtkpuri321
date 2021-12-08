@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtkpuri321&show_icons=true)](https://github.com/rtkpuri321/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtkpuri321&layout=compact)](https://github.com/rtkpuri321/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtkpuri321&langs_count=100)](https://github.com/rtkpuri321/github-readme-stats)
